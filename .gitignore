@@ -1,0 +1,12 @@
+internal.txt
+/customer/node_modules
+/customer/android
+/customer/ios
+
+/customer/.buckconfig
+/customer/.eslintrc.js
+/customer/.flowconfig
+/customer/.prettierrc.js
+/customer/.vscode/settings.json
+/customer/.watchmanconfig
+/customer/__tests__
